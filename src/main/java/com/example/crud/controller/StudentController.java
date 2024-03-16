@@ -12,6 +12,9 @@ import java.util.Optional;
 public class StudentController {
 
     //contiene los metodos http para ejecutarlos
+    //estos se utilizan para crear, modificar, consultar y eliminar
+
+
     @Autowired
     private  StudentService studentService;
 
